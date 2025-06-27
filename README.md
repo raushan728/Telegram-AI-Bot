@@ -35,13 +35,13 @@ A simple, powerful Telegram AI chatbot built using **Python**, the **python-tele
 
 ---
 
-## 🖼️ Demo Screenshots
+### 🖼️ Demo Screenshots
 
-| Sample Interaction     | Screenshot                                    |
-|------------------------|-----------------------------------------------|
-| Basic Info Q&A         | ![](demo/demo1.jpg.jpg)                       |
-| Fun Prompt (Pirate)    | ![](demo/demo4.jpg.jpg)                       |
-| Poem Request           | ![](demo/demo3.jpg.jpg)                       |
+| Sample Interaction     | Screenshot |
+|------------------------|------------|
+| Basic Info Q&A         | <img src="demo/demo1.jpg.jpg" width="400"/> |
+| Fun Prompt (Pirate)    | <img src="demo/demo4.jpg.jpg" width="400"/> |
+| Poem Request           | <img src="demo/demo3.jpg.jpg" width="400"/> |
 
 ---
 
