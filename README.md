@@ -37,11 +37,11 @@ A simple, powerful Telegram AI chatbot built using **Python**, the **python-tele
 
 ## 🖼️ Demo Screenshots
 
-| Sample Interaction | Screenshot |
-|--------------------|------------|
-| Basic Info Q&A     | ![](./demo/demo1.jpg) |
-| Fun Prompt (Pirate)| ![](./demo/demo2.jpg) |
-| Poem Request       | ![](./demo/demo3.jpg) |
+| Sample Interaction     | Screenshot                                    |
+|------------------------|-----------------------------------------------|
+| Basic Info Q&A         | ![](demo/demo1.jpg.jpg)                       |
+| Fun Prompt (Pirate)    | ![](demo/demo4.jpg.jpg)                       |
+| Poem Request           | ![](demo/demo3.jpg.jpg)                       |
 
 ---
 
